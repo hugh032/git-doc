@@ -1,1 +1,2 @@
 String s = "s1";
+String s2 = "s2";
